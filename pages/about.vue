@@ -104,7 +104,7 @@ const team = [
             <section class="my-28">
                 <div class="flex justify-center gap-10 items-center flex-col md:flex-row">
                     <div class="md:w-1/2">
-                        <img class="w-full lg:w-auto lg:max-w-xl box-shadow mx-auto" src="../assets/images/mission.svg"
+                        <!-- <img class="w-full lg:w-auto lg:max-w-xl box-shadow mx-auto" src="../assets/images/mission.svg" -->
                             alt="health dashboard">
                     </div>
                     <div class="md:w-1/2">
@@ -121,7 +121,7 @@ const team = [
             <section class="my-28">
                 <div class="flex justify-center gap-10 items-center flex-col md:flex-row-reverse">
                     <div class="md:w-1/2">
-                        <img class="w-full lg:w-auto lg:max-w-xl box-shadow mx-auto" src="../assets/images/vision.svg"
+                        <!-- <img class="w-full lg:w-auto lg:max-w-xl box-shadow mx-auto" src="../assets/images/vision.svg" -->
                             alt="health dashboard">
                     </div>
                     <div class="md:w-1/2">
