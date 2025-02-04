@@ -2,7 +2,7 @@
   <div class="my-24">
     <div class="container p-8 mx-auto xl:px-0 flex w-full flex-col mt-4 items-center justify-center text-center">
       <h2 class="max-w-2xl mt-3 text-3xl font-bold leading-snug tracking-tight text-gray-800 lg:leading-tight lg:text-4xl dark:text-white">
-        Our Partners
+        Brands We Work With
       </h2>
       <p class="max-w-2xl py-4 text-lg leading-normal text-gray-500 lg:text-xl xl:text-xl dark:text-gray-300">
         Explore the partners and collaborators who make our journey exciting, bringing unique strengths and ideas to help us grow together.

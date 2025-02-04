@@ -15,16 +15,16 @@
         <h2 class="title-font font-medium text-green-400 tracking-widest text-sm mb-3">Our Services</h2>
         <nav class="list-none mb-10">
           <li>
-            <a class="text-gray-300 hover:text-green-300">Ag-Tech Consulting</a>
+            <a class="text-gray-300 hover:text-green-600">Ag-Tech Consulting</a>
           </li>
           <li>
-            <a class="text-gray-300 hover:text-green-300">Agribusiness Mapping</a>
+            <a class="text-gray-300 hover:text-green-600">Agribusiness Mapping</a>
           </li>
           <li>
-            <a class="text-gray-300 hover:text-green-300">Export Aggregator</a>
+            <a class="text-gray-300 hover:text-green-600">Export Aggregator</a>
           </li>
           <li>
-            <a class="text-gray-300 hover:text-green-300"> Business Support Services</a>
+            <a class="text-gray-300 hover:text-green-600"> Business Support Services</a>
           </li>
         </nav>
       </div>
@@ -32,13 +32,13 @@
         <h2 class="title-font font-medium text-green-400 tracking-widest text-sm mb-3">Our Projects</h2>
         <nav class="list-none mb-10">
           <li>
-            <a class="text-gray-600 hover:text-gray-800">Solidaridad</a>
+            <a class="text-gray-300 hover:text-green-600">Solidaridad</a>
           </li>
           <li>
-            <a class="text-gray-600 hover:text-gray-800">AGRA</a>
+            <a class="text-gray-300 hover:text-green-600">AGRA</a>
           </li>
           <li>
-            <a class="text-gray-600 hover:text-gray-800">Yoda Farms Limited</a>
+            <a class="text-gray-300 hover:text-green-600">Yoda Farms Limited</a>
           </li>
           <!-- <li>
             <a class="text-gray-600 hover:text-gray-800">Fourth Link</a>
@@ -66,16 +66,16 @@
         <h2 class="title-font font-medium text-green-400 tracking-widest text-sm mb-3">Contact Us</h2>
         <nav class="list-none mb-10">
           <li>
-            <a class="text-gray-600 hover:text-gray-800">Phone: (233) 200498247</a>
+            <a class="text-gray-300 hover:text-green-600">Phone: (233) 200498247</a>
           </li>
           <li>
-            <a class="text-gray-600 hover:text-gray-800">Email: Info@bridgepointagri.com</a>
+            <a class="text-gray-300 hover:text-green-600">Email: Info@bridgepointagri.com</a>
           </li>
           <li>
-            <a class="text-gray-600 hover:text-gray-800">Address: Adenta Down, Accra Ghana Okantey Street</a>
+            <a class="text-gray-300 hover:text-green-600">Address: Adenta Down, Accra Ghana Okantey Street</a>
           </li>
           <li>
-            <a class="text-gray-600 hover:text-gray-800">Time: Mon - Fri ( 9am - 7pm )</a>
+            <a class="text-gray-300 hover:text-green-600">Time: Mon - Fri ( 9am - 7pm )</a>
           </li>
         </nav>
       </div>

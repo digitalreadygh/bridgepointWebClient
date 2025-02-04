@@ -3,9 +3,9 @@ definePageMeta({
   layout: "landing",
 });
 
-const TeamImg3 = "../images/team/abraham.png";
-const TeamImg2 = "https://rb.gy/t7rjfj";
-const TeamImg1 = "https://rb.gy/mqystu";
+const TeamImg3 = "../images/team/abraham-Katsekpor.png";
+const TeamImg2 = "../images/team/Gifty-Addo.jpg";
+const TeamImg1 = "../images/team/Isaac-Ampiaw.png";
 
 const team = [
   {
@@ -105,7 +105,7 @@ const team = [
                 <div class="flex justify-center gap-10 items-center flex-col md:flex-row">
                     <div class="md:w-1/2">
                         <!-- <img class="w-full lg:w-auto lg:max-w-xl box-shadow mx-auto" src="../assets/images/mission.svg" -->
-                            alt="health dashboard">
+                            <!-- alt="health dashboard"> -->
                     </div>
                     <div class="md:w-1/2">
                         <div class="md:max-w-xl mx-auto">
@@ -122,7 +122,7 @@ const team = [
                 <div class="flex justify-center gap-10 items-center flex-col md:flex-row-reverse">
                     <div class="md:w-1/2">
                         <!-- <img class="w-full lg:w-auto lg:max-w-xl box-shadow mx-auto" src="../assets/images/vision.svg" -->
-                            alt="health dashboard">
+                            <!-- alt="health dashboard"> -->
                     </div>
                     <div class="md:w-1/2">
                         <div class="md:max-w-xl mx-auto">
@@ -155,7 +155,7 @@ const team = [
             :height="item.avatar.height"
             alt="Team"
             loading="lazy"
-            class="h-full w-full object-cover object-center" />
+            class="h-full w-full object-contain object-center" />
         </div>
 
         <div>
